@@ -5,28 +5,32 @@ Deployed an Azure VM and configured Nginx to host multiple sites using URL routi
 * Overview
 This project demonstrates how I deployed an Ubuntu Linux virtual machine in Microsoft Azure, installed Nginx, and configured it to serve two separate websites from a single server using URL-based routing.
 📸 Screenshots
+## 📸 Screenshots
 
-VM Running
+### Nginx Running
 
-Nginx Running
-![Nginx]
-(nginx-running png.png)
-Nginx Config Enabled
-![Config Enabled]
-(nginx config enabled.png)
-Nginx Config File
-![Config]
-(nginx config png.png)
-Sites Running
-![Sites]
-(sites running.png)
-Site 1 Code
-![Site1 Code]
-(index.html site1.png)
-Site 2 Code
+![Nginx](nginx-running png.png)
 
-![Site2 Code]
-(site2 writing.png)
+### Nginx Config Enabled
+
+![Config Enabled](nginx config enabled.png)
+
+### Nginx Config File
+
+![Config](nginx config png.png)
+
+### Sites Running
+
+![Sites](sites running.png)
+
+### Site 1 Code
+
+![Site1 Code](index.html site1.png)
+
+### Site 2 Code
+
+![Site2 Code](site2 writing.png)
+
 
 
 
