@@ -7,29 +7,34 @@ This project demonstrates how I deployed an Ubuntu Linux virtual machine in Micr
 📸 Screenshots
 ## 📸 Screenshots
 
-### Nginx Running
+## 📸 Screenshots
 
+### Nginx Running
 ![Nginx](nginx-running png.png)
 
 ### Nginx Config Enabled
-
 ![Config Enabled](nginx config enabled.png)
 
 ### Nginx Config File
-
 ![Config](nginx config png.png)
 
 ### Sites Running
-
 ![Sites](sites running.png)
 
 ### Site 1 Code
-
 ![Site1 Code](index.html site1.png)
 
 ### Site 2 Code
-
 ![Site2 Code](site2 writing.png)
+
+### Site 1 Browser
+![Site1](site1-browser.png)
+
+### Site 2 Browser
+![Site2](site2-browser.png)
+
+### VM Running
+![VM](vm-running.png)
 
 
 
