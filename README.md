@@ -38,8 +38,6 @@ This project demonstrates how I deployed an Ubuntu Linux virtual machine in Micr
 
 
 
-
-
 * What I built
 - Created an Ubuntu VM in Microsoft Azure
 - Connected securely using SSH
